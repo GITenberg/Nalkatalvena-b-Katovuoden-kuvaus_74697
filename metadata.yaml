@@ -1,0 +1,29 @@
+_repo: Nalkatalvena-b-Katovuoden-kuvaus_74697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kataja, Väinö
+    alias: Kataja, Vaino
+    birthdate: 1867
+    deathdate: 1914
+    gutenberg_agent_id: '5390'
+    url: http://www.gutenberg.org/2009/agents/5390
+    wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Kataja
+description: ''
+gutenberg_issued: '2024-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74697'
+language: fi
+pgterms:marc905: 20241022123932kataja
+pgterms:marc906: '1895'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPori :$bSatakunnan Kirjapaino, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nälkätalvena : $b Katovuoden kuvaus'
+url: http://www.gutenberg.org/ebooks/74697
